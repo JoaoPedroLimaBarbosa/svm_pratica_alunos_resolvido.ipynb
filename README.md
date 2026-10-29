@@ -1,6 +1,6 @@
 # SVM — o Titanic contra a Random Forest
 
-Prática de **** sobre **Máquinas de Vetores de Suporte (SVM)**. O modelo é usado para prever a sobrevivência dos passageiros do Titanic e comparado com uma Random Forest de referência.
+Prática de IA sobre **Máquinas de Vetores de Suporte (SVM)**. O modelo é usado para prever a sobrevivência dos passageiros do Titanic e comparado com uma Random Forest de referência.
 
 ## Objetivo
 
